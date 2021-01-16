@@ -1,0 +1,5 @@
+rootProject.name = 'TaskGradle'
+include 'db'
+include 'api'
+include 'service'
+
